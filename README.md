@@ -29,7 +29,7 @@ using entirely local, open-source technologies.
 ### 1. Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/AmbedkarGPT-Intern-Task.git
+git clone https://github.com/surabhi-chandrakant/AmbedkarGPT-Intern-Task.git
 cd AmbedkarGPT-Intern-Task
 ```
 
